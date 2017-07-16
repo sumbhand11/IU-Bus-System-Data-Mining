@@ -1,0 +1,39 @@
+A,,,,,
+FROM ID,TO ID,Distance,Time,From,To
+67,67,0,180,Stadium (A),Stadium (A)
+67,39,0.6,180,Stadium (A),Alumni Center
+39,39,0,60,Alumni Center,Alumni Center
+39,38,0.2,48,Alumni Center,Briscoe
+38,38,0,60,Briscoe,Briscoe
+38,37,0.2,37,Briscoe,McNutt
+37,37,0,60,McNutt,McNutt
+37,41,0.2,45,McNutt,Kelley School
+41,41,0,60,Kelly School,Kelley School
+41,1,0.2,60,Kelly School,Well's Library
+1,1,0,60,Well's Library,Well's Library
+1,4,0.3,120,Well's Library,Neal Marshall
+4,4,0,60,Neal Marshall,Neal Marshall
+4,6,0.3,120,Neal Marshall,3rd & Jordan
+6,6,0,60,3rd & Jordan,3rd & Jordan
+6,8,0.2,44,3rd & Jordan,Jordan Hall
+8,8,0,60,Jordan Hall,Jordan Hall
+8,10,0.3,56,Jordan Hall,Maurer School of Law
+10,10,0,60,Maurer School of Law,Maurer School of Law
+10,11,0.2,57,Maurer School of Law,Kirkwood & Indiana
+11,11,0,60,Kirkwood & Indiana,Kirkwood & Indiana
+11,12,0.3,120,Kirkwood & Indiana,IMU
+12,12,0,60,IMU,IMU
+12,13,0.2,60,IMU,10th & Woodlawn
+13,13,0,60,10th & Woodlawn,10th & Woodlawn
+13,14,0.1,40,10th & Woodlawn,Psychology
+14,14,0,60,Psychology,Psychology
+14,36,0.2,57,Psychology,Kelley School ()
+36,36,0,60,Kelley School (),Kelley School ()
+36,30,0.2,55,Kelley School (),Foster
+30,30,0,60,Foster,Foster
+30,34,0.2,41,Foster,Briscoe ()
+34,34,0,60,Briscoe (),Briscoe ()
+34,35,0.2,49,Briscoe (),Assembly Hall ()
+35,35,0,60,Assembly Hall (),Assembly Hall ()
+35,68,0.3,56,Assembly Hall (),Stadium ()
+68,68,0,180,Stadium (),Stadium ()

@@ -1,0 +1,15 @@
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\bin\Debug\IUBus.exe.config
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\bin\Debug\IUBus.exe
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\bin\Debug\IUBus.pdb
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus.csprojResolveAssemblyReference.cache
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\MainWindow.g.cs
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\App.g.cs
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus_MarkupCompile.cache
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus_MarkupCompile.lref
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\MainWindow.baml
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus.g.resources
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus.Properties.Resources.resources
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus.csproj.GenerateResource.Cache
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus.exe
+c:\users\nithipat.t\documents\visual studio 2015\Projects\IUBus\IUBus\obj\Debug\IUBus.pdb
+C:\Users\nithipat.t\Documents\Visual Studio 2015\Projects\IUBus\IUBus\bin\Debug\MySql.Data.dll

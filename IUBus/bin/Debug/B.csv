@@ -1,0 +1,41 @@
+B,,,,,,,
+FROM ID,TO ID ,Distance,Time,From ,To,lat,long
+99,99,0,180,Fisher Court,Fisher Court,39.184006,-86.516914
+99,25,0.1,60,Fisher Court,ZBT,,
+25,25,0,10,ZBT,ZBT,39.183517,-86.51458
+25,26,0.1,60,ZBT,Balfour,,
+26,26,0,10,Balfour,Balfour,39.182404,-86.51268
+26,27,0.1,60,Balfour,Kappa Sigma,,
+27,27,0,10,Kappa Sigma,Kappa Sigma,39.180801,-86.5112
+27,28,0.1,60,Kappa Sigma,Jordan & 17th,,
+28,28,0,10,Jordan & 17th,Jordan & 17th,39.179066,-86.511002
+28,29,0.2,60,Jordan & 17th,Lingelbach,,
+29,29,0,10,Lingelbach,Lingelbach,39.1772,-86.512604
+29,31,0.2,60,Lingelbach,Kappa Delta,,
+31,31,0,10,Kappa Delta,Kappa Delta,39.17458,-86.514847
+31,33,0.2,60,Kappa Delta,10th & Jordan,,
+33,33,0,10,10th & Jordan,10th & Jordan,39.171673,-86.515701
+33,4,0.3,120,10th & Jordan,Neal Marshall,,
+4,4,0,10,Neal Marshall,Neal Marshall,39.167984,-86.516174
+4,6,0.3,120,Neal Marshall,3rd & Jordan,,
+6,6,0,10,3rd & Jordan,3rd & Jordan,39.164314,-86.517448
+6,8,0.2,60,3rd & Jordan,Jordan Hall,,
+8,8,0,10,Jordan Hall,Jordan Hall,39.164288,-86.521561
+8,10,0.3,60,Jordan Hall,Maurer School Of Law,,
+10,10,0,10,Maurer School Of Law,Maurer School Of Law,39.164326,-86.526703
+10,87,1.1,240,Maurer School Of Law,Jordan Garage,,
+87,87,0,10,Jordan Garage,Jordan Garage,39.167393,-86.515915
+87,88,0.3,120,Jordan Garage,10th & Jordan (),,
+88,88,0,10,10th & Jordan (),10th & Jordan (),39.171436,-86.515572
+88,16,0.2,120,10th & Jordan (),SRSC (),,
+16,16,0,10,SRSC (),SRSC (),39.1744,-86.514801
+16,75,0.2,60,SRSC (),Lingelbach (),,
+75,75,0,10,Lingelbach (),Lingelbach (),39.177116,-86.512474
+75,20,0.2,60,Lingelbach (),Phi Kappa Sigma(),,
+20,20,0,10,Phi Kappa Sigma(),Phi Kappa Sigma(),39.179581,-86.51088
+20,21,0.1,60,Phi Kappa Sigma(),Chi Omega(),,
+21,21,0,10,Chi Omega(),Chi Omega(),39.181,-86.511101
+21,22,0.1,60,Chi Omega(),Balfour (),,
+22,22,0,10,Balfour (),Balfour (),39.182362,-86.512444
+22,23,0.1,60,Balfour (),ZBT (),,
+23,23,0,10,ZBT (),ZBT (),39.183548,-86.51445
